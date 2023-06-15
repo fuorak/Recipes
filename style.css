@@ -1,15 +1,5 @@
 /* index.html */
-/*
-#page {
-    height: 500px;
-    padding: 50px;
-    background: plum;
-    border: 3px green;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-*/
+
 #opening {
     color: blue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -30,5 +20,5 @@ body {
 }
 
 * {
-    /*border: 1px solid red;*/
+    border: 1px solid red;
   }
