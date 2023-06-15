@@ -3,7 +3,6 @@
 #opening {
     color: blue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    padding-left: 200px;
 }
 
 #sideproject {
@@ -20,6 +19,8 @@ body {
 }
 
 * {
-    border: 1px solid red;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
   }
